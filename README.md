@@ -1,13 +1,13 @@
-# portfolio_nandish.github.io
-## Portfolio
 
-### Hello, I'm [Your Name] 👋
+# Portfolio
+
+### Hello, I'm [Nandish Melavanki] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- **Project 1**: Implemented a victim cache mechanism in a 16-core TCMP (Tiled Chip Multiprocessor) architecture using digital VLSI design principles, aiming to reduce memory access time and improve overall system performance..
+- **Project 2**:Developed a flood detection system using machine learning algorithms to accurately predict flood occurrences based on environmental and hydrological data..
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -15,8 +15,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/ Melavankinandish)
+- [LinkedIn](https://linkedin.com/in/(https://www.linkedin.com/feed/))
 
 ## Portfolio Topic
 
@@ -33,16 +33,16 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24EEEE304</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Nandish Melavanki</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>01FE22BEE081</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Prakash Hegde</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
-<dt>Portfolio Topic/Domain</dt>
+<dd>KLE Technological University</dd>
+<dt>From Logic to Learning</dt>
 <dd>Google</dd>
 </dl>
 
