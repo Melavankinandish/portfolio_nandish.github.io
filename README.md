@@ -1,7 +1,7 @@
 
 # Portfolio
 
-### Hello, I'm [Nandish Melavanki] 👋
+### Hello, I'm Nandish Melavanki 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -16,7 +16,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/ Melavankinandish)
-- [LinkedIn](https://linkedin.com/in/Nandish Melavanki)
+- [LinkedIn][(https://linkedin.com/in/Nandish Melavanki](https://www.linkedin.com/in/nandish-melavanki-645744307/))
 
 ## Portfolio Topic
 
