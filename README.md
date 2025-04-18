@@ -16,7 +16,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/ Melavankinandish)
-- [LinkedIn](https://linkedin.com/in/(https://www.linkedin.com/feed/))
+- [LinkedIn](https://linkedin.com/in/Nandish Melavanki)
 
 ## Portfolio Topic
 
